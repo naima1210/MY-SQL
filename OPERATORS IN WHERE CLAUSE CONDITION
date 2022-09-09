@@ -1,0 +1,15 @@
+SQL for Beginners - Using Relational Operators in Where Clause Condition
+
+Different Relational Operators we can use in Where Clause Condition
+     Equal Operator (=)
+Select * from Products where Price=40;
+     Greater Than Operator (>)
+Select * from Products where Price>40;
+     Less Than Operator (<)
+Select * from Products where Price<40;
+     Greater Than Or Equal To Operator (>=)
+Select * from Products where Price>=40;
+     Less Than Or Equal To Operator (<=)
+Select * from Products where Price<=40;
+     Not Equal To Operator (<>)
+Select * from Products where Price<>40;
