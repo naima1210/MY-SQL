@@ -1,0 +1,7 @@
+SQL for Beginners - Where Clause
+
+Purpose is to filter records based on some condition
+Practice Where Clause:
+Select * from Customers where City='London';
+Select * from Customers where CustomerID=9;
+Select CustomerName,Country,City where City='London';
