@@ -1,0 +1,9 @@
+SQL for Beginners - distinct keyword
+
+For unique values to be retrieved, we have to use distinct keyword with Select command
+Without distinct:
+Select Country from Customers;
+With distinct:
+Select distinct Country from Customers;
+Select distinct Country,PostalCode from Customers;
+Combination of Country and PostalCode should be unique
