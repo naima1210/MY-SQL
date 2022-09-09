@@ -1,0 +1,9 @@
+SQL for Beginners - Select Command
+
+The purpose this SQL command is to retrieve the data from the tables
+Retrieving all the data from Customers table
+Syntax: Select * from TableName;
+Select * from Customers;
+Retrieving specific column data from Customers table
+Select CustomerName from Customers;
+Select CustomerName,Country,City,PostalCode from Customers;
